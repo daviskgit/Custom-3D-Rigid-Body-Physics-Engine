@@ -3,7 +3,7 @@
 A standalone 3D rigid-body physics engine written from scratch in modern C++,
 with an OpenGL 4.5 rendering pipeline. No third-party dependencies (no GLFW,
 GLEW/GLAD, GLM, Bullet, etc.) — windowing/GL context creation uses raw
-Win32 + WGL, and math/collision/dynamics are all hand-rolled.
+Win32 + WGL, and math/collision/dynamics are all built ground up.
 
 ## Features
 
